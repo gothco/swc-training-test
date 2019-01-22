@@ -22,7 +22,7 @@ To participate in the fun :
 
 `git pull upstream master`
 
-6. Make you change, add it, commit it, and push your branch :
+6. Make your change, add it, commit it, and push your branch :
 
 `git add changed_file.txt`
 
